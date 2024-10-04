@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Welcome to dump scripts"
-
+echo "Welcome to dummmy scripts"
+echo "Your arguments are: $*"
